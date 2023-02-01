@@ -1,2 +1,2 @@
 # Food-Order-Application
-This is an ongoing application in make which is a food order app. Will add food dishes in your cart from where we can order it.
+This is a food order app. You can add meals in Cart. The cart is fully functional. You can futher place an order by filling a validation form. The application is made with ReactJs and useContext hook is used for state management.
